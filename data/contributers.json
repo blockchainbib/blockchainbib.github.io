@@ -1,0 +1,43 @@
+[{
+    "name": "Aljosha Judmayer",
+    "affiliation": "SBA Research",
+    "url": "https://www.sba-research.org/team/researchers/aljosha-judmayer/",
+    "email": "ajudmayer@sba-research.org",
+    "type": ["code", "bib"]
+},
+{
+    "name": "Alexei Zamyatin",
+    "affiliation": "Imperial College London",
+    "url": "http://www.imperial.ac.uk/people/alexei.zamyatin17",
+    "email": "a.zamyatin@imperial.ac.uk",
+    "type": ["code", "bib"]
+},
+{
+    "name": "Nicholas Stifter",
+    "affiliation": "SBA Research",
+    "url": "https://www.sba-research.org/team/researchers/nicholas-stifter/",
+    "email": "nstifter@sba-research.org",
+    "type": ["bib"]
+},
+{
+    "name": "Philipp Schindler",
+    "affiliation": "SBA Research",
+    "url": "https://www.sba-research.org/team/researchers/philipp-schindler/",
+    "email": "pschindler@sba-research.org",
+    "type": ["bib"]
+},
+{
+    "name": "Nicolas Christin",
+    "affiliation": "",
+    "url": "",
+    "email": "",
+    "type": ["bib"]
+},
+{
+    "name": "Daniel Kraft",
+    "affiliation": "",
+    "url": "",
+    "email": "",
+    "type": ["bib"]
+}
+]
