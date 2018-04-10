@@ -12,6 +12,14 @@
                     isArray: true
                 });
             };
+
+            vm.readAllStatic = function () {
+                return $http({
+                    method: 'GET',
+                    url: "data/blockchainbib.json",
+                    isArray: true
+                });
+            };
         });
 
 
