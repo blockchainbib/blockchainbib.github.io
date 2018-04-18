@@ -40,7 +40,7 @@
       });
 
       $rootScope.activateHttpInterceptor = function () {
-          $log.info("started");
+          //$log.info("started");
 
           $rootScope.interceptorAcvite = true;
       };
