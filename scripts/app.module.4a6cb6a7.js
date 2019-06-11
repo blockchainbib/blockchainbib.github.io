@@ -36,8 +36,7 @@
 
             // own modules
             'frontendApp.bib',
-            'frontendApp.notification',
-            'frontendApp.contributers'
+            'frontendApp.notification'
 
 
 

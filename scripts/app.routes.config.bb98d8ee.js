@@ -23,12 +23,6 @@
                 url: 'bibliography',
                 controller: 'BibController',
                 controllerAs: 'vm'
-            })
-            .state('main.contributers', {
-                templateUrl: 'views/contributers/contributers.html',
-                url: 'contributers',
-                controller: 'ContribController',
-                controllerAs: 'vm'
             });
     }
 

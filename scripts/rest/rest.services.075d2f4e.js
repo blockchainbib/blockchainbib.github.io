@@ -20,26 +20,6 @@
                     isArray: true
                 });
             };
-        })
-
-        .service('Contributers', function($http, $rootScope, BACKEND_API){
-            var vm = this;
-
-            vm.readAll = function () {
-                return $http({
-                    method: 'GET',
-                    url: BACKEND_API + "bib",
-                    isArray: true
-                });
-            };
-
-            vm.readAllStatic = function () {
-                return $http({
-                    method: 'GET',
-                    url: "data/contributers.json",
-                    isArray: true
-                });
-            };
         });
 
 
